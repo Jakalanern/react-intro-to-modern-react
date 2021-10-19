@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-intro-to-modern-react/static/css/main.a617e044.chunk.css",
+    "main.js": "/react-intro-to-modern-react/static/js/main.37b894c9.chunk.js",
+    "main.js.map": "/react-intro-to-modern-react/static/js/main.37b894c9.chunk.js.map",
+    "runtime-main.js": "/react-intro-to-modern-react/static/js/runtime-main.0d91e324.js",
+    "runtime-main.js.map": "/react-intro-to-modern-react/static/js/runtime-main.0d91e324.js.map",
+    "static/js/2.e981de40.chunk.js": "/react-intro-to-modern-react/static/js/2.e981de40.chunk.js",
+    "static/js/2.e981de40.chunk.js.map": "/react-intro-to-modern-react/static/js/2.e981de40.chunk.js.map",
+    "static/js/3.7185fa5c.chunk.js": "/react-intro-to-modern-react/static/js/3.7185fa5c.chunk.js",
+    "static/js/3.7185fa5c.chunk.js.map": "/react-intro-to-modern-react/static/js/3.7185fa5c.chunk.js.map",
+    "index.html": "/react-intro-to-modern-react/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/react-intro-to-modern-react/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.e981de40.chunk.js.LICENSE.txt": "/react-intro-to-modern-react/static/js/2.e981de40.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d91e324.js",
+    "static/js/2.e981de40.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.37b894c9.chunk.js"
+  ]
+}
